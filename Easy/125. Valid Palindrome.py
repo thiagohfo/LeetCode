@@ -8,6 +8,6 @@ class Solution:
 
         for i in range(len(result)):
             if result[i] != result[(len(result) - 1) - i]:
-                return False
+                return False1
 
         return True
