@@ -1,2 +1,2 @@
 # LeetCode Solutions
-## Problem codes already resolved and submitted.
+## Problem codes already resolved and submitted by Thiago.
